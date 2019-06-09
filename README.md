@@ -1,4 +1,4 @@
-# fix_mov
+# fix-mov
 This script fixed this error:
 
 >After Effects error: Source file has no importable streams. Please check that it is a valid video/audio file. ( 86 :: 1 )
