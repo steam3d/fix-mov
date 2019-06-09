@@ -1,2 +1,10 @@
 # fix_mov
-This is simple script. It convert wrong mov files with alpha channel to compatible with after effects
+This script fixed this error:
+
+>After Effects error: Source file has no importable streams. Please check that it is a valid video/audio file. ( 86 :: 1 )
+
+1. install python 3+
+2. Run fix_mov.py
+3. Place wrong files to input
+4. Run fix_mov.py
+5. Take files from output
